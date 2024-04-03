@@ -1,4 +1,5 @@
 EDA 분석 결과
+
 Company - Employee Distribution: 대부분의 회사에서 직원 수는 소수에 집중되어 있으며, 일부 회사에서 매우 높은 직원 수를 보여준다. 이는 특정 대기업이나 매우 큰 기업의 존재를 시사한다.
 
 Recruitment - Education Level Distribution: 대다수의 채용 공고는 특정 교육 수준(4가 가장 높은 빈도)을 요구하는 것으로 보인다.
